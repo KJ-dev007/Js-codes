@@ -1,1 +1,2 @@
-console.log(change 3 * 5);
+console.log(change);
+console.log('config.js');
